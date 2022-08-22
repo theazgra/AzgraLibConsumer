@@ -1,0 +1,8 @@
+{
+  "messages": {
+    "welcome": "This is localized test 1"
+  },
+  "buttons": {
+    "buy": "Log user name"
+  }
+}
